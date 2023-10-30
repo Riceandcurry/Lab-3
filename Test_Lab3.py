@@ -2,7 +2,6 @@ import Lab3
 
 print("Test_Lab3")
 
-
 def test_bubble_sort_ascending():
     result = []
     input_arr = [64, 34, 25, 12, 22, 11, 90]
